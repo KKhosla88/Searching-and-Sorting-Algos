@@ -2,7 +2,7 @@ package java_Interview_Ques;
 
 import java.util.Arrays;
 
-public class Bubble_Sort 
+public class Bubble_Sort // should not be used in case of efficiency as it iterates each value in array(very non efficint)
 {
 	void bubble_sort(int arr[])
 	{
